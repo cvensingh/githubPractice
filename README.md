@@ -1,2 +1,2 @@
 # githubPractice
-this is College Assignment purpose
+this is for College Assignment purpose
